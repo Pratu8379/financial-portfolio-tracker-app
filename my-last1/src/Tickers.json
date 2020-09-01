@@ -1,0 +1,53 @@
+{
+   "Tickers":[
+    {
+      "symbol": "MSFT", 
+      "name": "Microsoft Corporation"
+    },
+    {
+      "symbol": "GS", 
+      "name": "Goldman Sachs Group Inc."
+    },
+    {
+      "symbol": " DIS", 
+      "name": "Walt Disney Company"
+    },
+    {
+      "symbol": "BA", 
+      "name": "British Airways"
+    },
+    {
+      "symbol": "HD", 
+      "name": "High-definition"
+    },
+    {
+      "symbol": "NKE", 
+      "name": "Nike World Headquarters in Beaverton"
+    },
+    {
+      "symbol": "MCD", 
+      "name": "Miscellaneous Cash Deposit Trade"
+    },
+    {
+      "symbol": "INTC", 
+      "name": "Intel Corporation"
+    },
+    {
+      "symbol": "JPM", 
+      "name": "JPMorgan "
+    },
+    {
+      "symbol": "AXP", 
+      "name": "American Express "
+    },
+    
+    {
+      "symbol": "IBM", 
+      "name": "International Business Machines Corporation"
+    }
+
+
+
+
+  ]
+}    
