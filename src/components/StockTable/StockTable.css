@@ -1,0 +1,27 @@
+table.MyStocksTable{
+    table-layout: fixed;
+  width: 100%; 
+  font-size: 25px;
+}
+
+.MyStocksTable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: blue;
+    color: white;
+  }
+
+  .MyStocksTable tr:nth-child(even){background-color: #f2f2f2;}
+
+  .MyStocksTable td, .MyStocksTable th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+   .mstocks{
+    float: left;
+    font-size: 32px;
+    margin-top: -30px;
+    margin-bottom: 10px;
+  }
